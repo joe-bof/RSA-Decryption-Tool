@@ -8,7 +8,7 @@ My official write-up provides more details and images on how to use this program
 c, n, e, p, and q values for the PicoCTF challenge are hard-coded into the program but can be changed.
 
 This code is not my own, but has been used in many similar RSA decryption challenge write-ups.
-Credit cannot be pinned to an original source, but here is the source I used: https://www.youtube.com/watch?v=_lg2AEqRTjg
+Credit cannot be pinned to an original source, but here is the source I used: https://www.youtube.com/watch?v=_lg2AEqRTjg.
 I changed the last line of code to convert deciphered hex to plaintext.
 
 To use:
