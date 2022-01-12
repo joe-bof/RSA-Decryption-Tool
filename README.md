@@ -16,3 +16,5 @@ To use:
 2) Use an online web-tool to decipher the p and q values from n.
 3) Hard-code the p and q values into the program. 
 4) Running the prgram will generate the plaintext.
+
+To learn more about RSA encryption: https://picoctf.org/learning_guides/Book-2-Cryptography.pdf
