@@ -14,5 +14,5 @@ I changed the last line of code to convert deciphered hex to plaintext.
 To use:
 1) Hard-code c, n, and e variables into the program.
 2) Use an online web-tool to decipher the p and q values from n.
-3) Hard-code the p and q values into the program.
+3) Hard-code the p and q values into the program. 
 4) Running the prgram will generate the plaintext.
