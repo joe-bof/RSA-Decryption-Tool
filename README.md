@@ -17,4 +17,4 @@ To use:
 3) Hard-code the p and q values into the program. 
 4) Running the prgram will generate the plaintext.
 
-To learn more about RSA encryption: https://picoctf.org/learning_guides/Book-2-Cryptography.pdf
+To learn more about RSA encryption go to page 6: https://picoctf.org/learning_guides/Book-2-Cryptography.pdf
